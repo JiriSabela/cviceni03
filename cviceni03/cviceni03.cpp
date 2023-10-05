@@ -1,5 +1,5 @@
 ﻿// cviceni03.cpp : Defines the entry point for the application.
-//
+//hgfhgfhtgfhtgfhghghgfhgf
 
 #include "cviceni03.h"
 
